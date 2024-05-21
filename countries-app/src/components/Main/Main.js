@@ -1,7 +1,9 @@
+
 export const Main = () =>{
     return(
-        <h1 className="sans-serif italic text-orange-600">
-            hello world!
-        </h1>
-    )
+        <section className="bg-amber-400 h-64">
+            <h1 className="pl-6">lets start</h1>
+        </section>
+        
+    );
 }
